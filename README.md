@@ -9,6 +9,6 @@ Hi there! I'm a 25-year-old web development enthusiast currently based in Berlin
 
 ### Latest projects
 - [Theater](https://boryskravtsov.github.io/Theater/)
-- [Crafty metaverse] (https://boryskravtsov.github.io/Crafty-metaverse/)
-- [Porten] (https://boryskravtsov.github.io/porten-repo/)
+- [Crafty metaverse](https://boryskravtsov.github.io/Crafty-metaverse/)
+- [Porten](https://boryskravtsov.github.io/porten-repo/)
 
