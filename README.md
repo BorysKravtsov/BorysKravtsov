@@ -1,6 +1,7 @@
 # Hi, im Borys👋
 ### Web development enthusiast
-[My LinkedIn](https://www.linkedin.com/in/borys-kravtsov-b068a9184/)
+![Gif banner](https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gifv)
+
 ## About me
 Hi there! I'm a 25-year-old web development enthusiast currently based in Berlin. I'm currently sharpening my skills at the Spiced Academy bootcamp, where I'm diving deep into JavaScript, HTML, CSS, and React. Before transitioning into web development, I worked as a 3D designer and motion designer, bringing creative ideas to life through visual storytelling. I'm excited to combine my design background with my new coding skills to create engaging, interactive web experiences. Let's connect!
 
