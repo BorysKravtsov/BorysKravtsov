@@ -6,7 +6,9 @@ Hi there! I'm a 25-year-old web development enthusiast currently based in Berlin
 
 ## My skills
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,js,html,css,sass,npm,ps,ae,pr,ai,blender,unreal,figma	)](https://skillicons.dev)
-<!---
-BorysKravtsov/BorysKravtsov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### Latest projects
+- [Theater]{https://boryskravtsov.github.io/Theater/}
+- [Crafty metaverse] {https://boryskravtsov.github.io/Crafty-metaverse/}
+- [Porten] {https://boryskravtsov.github.io/porten-repo/}
+
