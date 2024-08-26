@@ -8,12 +8,12 @@ Hi there! I'm a 25-year-old web development enthusiast currently based in Berlin
 ## My skills
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,js,html,css,sass,npm,ps,ae,pr,ai,blender,unreal,figma	)](https://skillicons.dev)
 
-### Latest projects
+## Latest projects
 - [Theater](https://boryskravtsov.github.io/Theater/)
 - [Crafty metaverse](https://boryskravtsov.github.io/Crafty-metaverse/)
 - [Porten](https://boryskravtsov.github.io/porten-repo/)
 
-### How to reach me
+## How to reach me
 [<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="50" alt="Telegram">](https://www.linkedin.com/in/borys-kravtsov-b068a9184/)
 [<img src="https://cdn2.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-circle-512.png" width="50" alt="Telegram">](https://wa.me/qr/AKRPT7X4ZRHVO1)
 [<img src="https://cdn.pixabay.com/photo/2021/12/27/10/50/telegram-icon-6896828_960_720.png" width="50" alt="Telegram">](https://t.me/mmamkinn)
