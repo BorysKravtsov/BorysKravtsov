@@ -8,7 +8,7 @@ Hi there! I'm a 25-year-old web development enthusiast currently based in Berlin
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,js,html,css,sass,npm,ps,ae,pr,ai,blender,unreal,figma	)](https://skillicons.dev)
 
 ### Latest projects
-- [Theater]{https://boryskravtsov.github.io/Theater/}
-- [Crafty metaverse] {https://boryskravtsov.github.io/Crafty-metaverse/}
-- [Porten] {https://boryskravtsov.github.io/porten-repo/}
+- [Theater](https://boryskravtsov.github.io/Theater/)
+- [Crafty metaverse] (https://boryskravtsov.github.io/Crafty-metaverse/)
+- [Porten] (https://boryskravtsov.github.io/porten-repo/)
 
